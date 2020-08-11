@@ -18,3 +18,5 @@ The first table here shows the best algorithm when using only the most visible c
 The second table here shows the best algorithms when using crystals that have been scored as 3 or 4 as the "good" result in a binary classification problem.
 ![](perovResults2.png)
 
+
+These tables above (in pictures) can also be seen in the `visualizeResults.ipynb` file. 
