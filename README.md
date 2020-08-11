@@ -12,3 +12,9 @@ In addition to invesigating the application of distance-learning algorithms, I u
 
 tl;dr -- it turns out that learning a distance function doesn't make a huge difference over the default euclidean distance, and while there are cases where classifiers can be improved, the standard euclidean distance is competitive with well-performing learned distance metrics. 
 
+The first table here shows the best algorithm when using only the most visible crystals (crystalScore == 4) as the "good" result in a binary classification problem.
+![](perovResults1.png)
+
+The second table here shows the best algorithms when using crystals that have been scored as 3 or 4 as the "good" result in a binary classification problem.
+![](perovResults2.png)
+
